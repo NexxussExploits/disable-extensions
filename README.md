@@ -5,3 +5,5 @@
 5. Click the "Extensions" icon in the top right corner of Chrome and you should see that all other extensions are disabled.
 
 The User will need to manually install this extension in their Chrome browser to disable other extensions.
+
+<img width="483" alt="image" src="https://github.com/NexxussExploits/disable-extensions/assets/145407129/ee9bf081-390f-4772-8c33-e02c0737e8d3">
